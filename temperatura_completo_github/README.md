@@ -1,9 +1,9 @@
-# Análisis de Temperatura en Medellín con Apache Spark y Kafka
+
 
 Este proyecto implementa procesamiento batch y streaming sobre datos históricos de temperatura.
 Incluye tanto el código fuente como resultados de ejemplo listos para visualizar en GitHub.
 
-## Archivos incluidos
+
   batch_temperatura.py - Procesamiento por lotes.
   productor_temperatura.py - Envío de datos a Kafka.
   streaming_temperatura.py - Procesamiento en tiempo real.
