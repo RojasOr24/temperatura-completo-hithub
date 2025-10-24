@@ -1,0 +1,9 @@
+⚡ Resultados del procesamiento en tiempo real (Streaming)
+
++-------------+
+|promedio_temp|
++-------------+
+|23.38        |
++-------------+
+
+Lectura continua desde Kafka topic 'clima_medellin' simulada correctamente.
