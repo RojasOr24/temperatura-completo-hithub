@@ -1,4 +1,4 @@
-⚡ Resultados del procesamiento en tiempo real (Streaming)
+ Resultados del procesamiento en tiempo real (Streaming)
 
 +-------------+
 |promedio_temp|
