@@ -5,5 +5,3 @@ promedio_min: 18.7
 promedio_general: 23.3
 temperatura_maxima: 34.6
 temperatura_minima: 15.1
-
-Datos procesados correctamente y exportados en formato CSV.
