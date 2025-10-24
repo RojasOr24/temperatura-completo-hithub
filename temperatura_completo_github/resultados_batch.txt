@@ -1,4 +1,4 @@
-📊 Resultados del procesamiento batch de temperatura en Medellín
+ Resultados del procesamiento batch de temperatura en Medellín
 
 promedio_max: 28.4
 promedio_min: 18.7
